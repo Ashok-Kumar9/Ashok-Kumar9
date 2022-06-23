@@ -11,7 +11,7 @@ IIT Madras || App Developer
 
 
 <h5>Show some &nbsp;❤️&nbsp; by starring some of my repositories!</h5>
-<p> <img src="https://github-readme-stats.vercel.app/api?username=Ashok-Kumar9&show_icons=true&theme=gotham" alt="Ashok Kumar | Stats"/>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=Ashok-Kumar9&count_private=true&show_icons=true&include_all_commits=true&theme=gotham" alt="Ashok Kumar | Stats"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok-Kumar9&theme=gotham)](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok-Kumar9)
 <hr/>
